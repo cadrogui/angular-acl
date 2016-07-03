@@ -1,0 +1,19 @@
+{
+  "name": "angular-acl",
+  "version": "1.0.0",
+  "description": "Role-Based permission for angular",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/cadrogui/angular-acl"
+  },
+  "keywords": [
+    "angular",
+    "acl",
+    "menu"
+  ],
+  "author": "Mikel Carozzi <cadrogui@gmail.com> (http://www.mikelcarozzi.cl)",
+  "license": "MIT"
+}
